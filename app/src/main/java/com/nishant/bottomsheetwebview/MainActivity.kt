@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         btn_show_bottom_sheet.setOnClickListener {
             val bottomSheetWebView = BottomSheetWebView(this)
-            bottomSheetWebView.showWithUrl("https://medium.com/@nishantpardamwar/")
+            bottomSheetWebView.showWithUrl("https://m.youtube.com/")
         }
     }
 }
